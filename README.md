@@ -59,7 +59,7 @@ pip install -r requirements.txt
 Run the app:
 
 ```bash
-python app.py
+python -m streamlit run app.py
 ```
 
 Or use the extraction logic in your own code:
