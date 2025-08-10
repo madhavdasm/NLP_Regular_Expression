@@ -100,10 +100,10 @@ Explanation:
 ## 📸 Project Screenshots
 
 **Screenshot 1 — Main App Interface**
-![App Screenshot 1](screenshots/screenshot1.png)
+![App Screenshot 1](NLP_1.jpg)
 
 **Screenshot 2 — Regex Explanation Output**
-![App Screenshot 2](screenshots/screenshot2.png)
+![App Screenshot 2](NLP_2.jpg)
 
 ---
 
